@@ -1,8 +1,5 @@
-theme: jekyll-theme-slate
-
 title: WayFormer
 description: Building inclusive progress with strategy, technology, and design
-
-show_downloads: "true"
+show_downloads: true
 google_analytics: G-GTL8PWXB18
-
+theme: jekyll-theme-slate
